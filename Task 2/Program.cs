@@ -16,8 +16,7 @@ for (int i = 0; i < rows; i++)
     }
     Console.WriteLine();
 }
-
-int minSumOfRow = int.MaxValue; 
+int minSumOfRow = int.MaxValue;
 int indexMinRow = 0;
 
 for (int i = 0; i < rows; i++)
